@@ -1,2 +1,2 @@
 Image of nyt website: 
-![nyt](path.jpg)
+![fun](https://imgur.com/gallery/UGyrBvN)
