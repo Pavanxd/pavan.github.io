@@ -13,6 +13,8 @@ The most valuable part of our design process consisted of our prototype tests in
 
 We found it most helpful when testing with users who had lower levels of expertise. For example, from our experience from testing with someone who wasn’t as experienced with technology, we were able to add more to our help page, and to add more ‘direction’ widgets to our pages. 
 
+https://renpavanluke.github.io/2022-04-07-Usability-Testing-Conclusion/ This link displays images of our process of making changes to our design, and how we strucutres our paper prototype.
+
 ## Expectation Vs. Reality
 At the very beginning of our design process, there were alot of moments where expectations did not meet reality, because of how we were over ambitious. For instance, at the very beginning of the project, we believed that we could design the entire application and all its functionalities using XCode and other integrations. However, it quickly became that we would only be able to chase that goal in a limited capacity, due to how ambitious we were with adding functionalities to our application. It was a choice between being ambitious with code or being ambitious with the application’s functionalities.
 
